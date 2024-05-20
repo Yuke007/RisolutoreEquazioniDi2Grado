@@ -78,7 +78,7 @@ def calcoloDelta(a, b, c):
         print ()
         
     else:
-        print ("Calcolo impossibile, Delta non puo essere minore di ", delta)
+        print ("Calcolo impossibile, Delta non puo essere minore di 0")
         
     #Fine Definizione.
 
